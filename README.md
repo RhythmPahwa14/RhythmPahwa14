@@ -21,7 +21,5 @@
 </div>
 
 <br><br>
-<a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
-  <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
-</a>
+
 <br><br>
