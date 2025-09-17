@@ -21,5 +21,6 @@
 </div>
 
 <br><br>
+[![An image of @rhythmpahwa14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rhythmpahwa14)](https://holopin.io/@rhythmpahwa14)
 
 <br><br>
