@@ -3,11 +3,12 @@
   <h3 align="center">A CSE student trying to find the algorithm to life's Rhythm.</h3>
 </div>
 
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 <ul>
-  <li>💬 Passionate about <b> AI/ML, Full-Stack Web Development, and Java</b></li>
-  <li>🔧 Proficient in <b>Java, JavaScript (React, Node.js, Express.js), MongoDB, and Python</b></li>
-  <li>🏅 Completed courses from <b>IBM, NPTEL, and University of Colorado Boulder</b></li>
+
+<li>Skilled in <b>C++, Java, Python, React, and SQL</b></li>
+<li><b>Rank 1 Project Admin</b> at <b>GirlScript Summer of Code 2025</b>, mentoring 100+ contributors and managing 700+ PRs across large-scale open-source projects</li>
+<li>Selected for <b>Amazon ML Summer School 2025</b> with advanced exposure to ML and cloud-scale systems</li>
 </ul>
 
 
