@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi , I'm Rhythm</h1>
+  <h1 align="center">Hi, I'm Rhythm</h1>
   <h3 align="center">A CSE student trying to find the algorithm to life's Rhythm.</h3>
 </div>
 
@@ -18,21 +18,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmpahwa14&theme=dracula" alt="streak graph" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhythmpahwa14&theme=dracula" alt="streak graph" />
   <br><br>
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhythmpahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="170" />
 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rhythmpahwa14&layout=compact&langs_count=8&theme=dracula" height="170" />
 
-</div>
-
-<br><br>
-
-<h3 align="left">Contribution Graph:</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rhythmpahwa14/rhythmpahwa14/output/snake.svg" alt="snake graph" />
 </div>
 
 <br><br>
