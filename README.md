@@ -18,7 +18,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=rhythmpahwa14&theme=dracula" alt="GitHub Streak Stats" />
+  <br><br>
+
+  <!-- GitHub Stats (Your Vercel Instance) -->
   <img src="https://github-readme-stats-rhythm.vercel.app/api?username=rhythmpahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="170" />
 
   <!-- Top Languages -->
