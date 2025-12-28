@@ -18,15 +18,15 @@
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhythmpahwa14&theme=dracula" alt="streak graph" />
+  <!-- Contribution Streak (working & stable) -->
+  <img src="https://streak-stats.demolab.com?user=rhythmpahwa14&theme=dracula" alt="GitHub Streak" />
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhythmpahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="170" />
+  <!-- Total Stats (working & stable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rhythmpahwa14&theme=dracula" height="170" alt="stats graph" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rhythmpahwa14&layout=compact&langs_count=8&theme=dracula" height="170" />
+  <!-- Top Languages (working & stable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhythmpahwa14&theme=dracula" height="170" alt="languages graph" />
 
 </div>
 
