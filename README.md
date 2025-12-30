@@ -19,7 +19,7 @@
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=rhythmpahwa14&theme=dracula" alt="GitHub Streak Stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmpahwa14&theme=dracula" alt="rhythmpahwa14" /></p>
   <br><br>
 
   <!-- GitHub Stats (Your Vercel Instance) -->
