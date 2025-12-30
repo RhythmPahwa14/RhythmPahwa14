@@ -18,8 +18,9 @@
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythmpahwa14&theme=dracula" alt="rhythmpahwa14" /></p>
+  <!-- GitHub Streak (Corrected URL) -->
+  <img src="https://streak-stats.demolab.com?user=rhythmpahwa14&theme=dracula" alt="GitHub Streak" />
+
   <br><br>
 
   <!-- GitHub Stats (Your Vercel Instance) -->
@@ -32,4 +33,5 @@
 
 <br><br>
 
-[![Holopin Profile](https://holopin.me/rhythmpahwa14)](https://holopin.io/@rhythmpahwa14)
+<!-- Holopin Badges (Corrected) -->
+[![An image of @rhythmpahwa14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rhythmpahwa14)](https://holopin.io/@rhythmpahwa14)
