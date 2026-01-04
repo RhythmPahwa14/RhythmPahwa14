@@ -21,12 +21,13 @@
 
 <hr/>
 
-<h3>Currently</h3>
+<h3>What I’m Working On</h3>
 
 <ul>
-  <li>Building AI-enabled and full-stack applications</li>
-  <li>Learning scalable backend architectures and cloud fundamentals</li>
-  <li>Actively contributing to open-source projects</li>
+  <li>AI-enabled and full-stack web applications</li>
+  <li>Machine learning and computer vision projects</li>
+  <li>Scalable backend systems and cloud fundamentals</li>
+  <li>Open-source contributions and community mentoring</li>
 </ul>
 
 <hr/>
@@ -42,11 +43,25 @@
 <h3>GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmPahwa14&theme=dracula&hide_border=true" />
-  <br/><br/>
   <img src="https://github-readme-stats-rhythm.vercel.app/api?username=RhythmPahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="170" />
   <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=RhythmPahwa14&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170" />
 </div>
+
+<hr/>
+
+<h3>Featured Projects</h3>
+
+<ul>
+  <li>
+    <b>Help Nearby</b> – A location-based platform connecting people who need help with nearby volunteers using React and mapping APIs
+  </li>
+  <li>
+    <b>Motion Writing / Virtual Notepad</b> – Real-time hand-gesture to text system using MediaPipe, OpenCV, and CNNs
+  </li>
+  <li>
+    <b>AlgoVisualizer</b> – Open-source algorithm visualization platform with large-scale contributor involvement
+  </li>
+</ul>
 
 <hr/>
 
@@ -54,8 +69,8 @@
 
 <ul>
   <li>Rank 1, GirlScript Summer of Code 2025 (Project Admin)</li>
-  <li>Participant, Amazon ML Summer School 2025</li>
-  <li>Developed machine learning and computer vision projects using MediaPipe and OpenCV</li>
+  <li>Amazon ML Summer School 2025</li>
+  <li>Built and deployed ML, CV, and full-stack projects</li>
 </ul>
 
 <hr/>
