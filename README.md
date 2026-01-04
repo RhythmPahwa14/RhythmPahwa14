@@ -42,7 +42,7 @@
 <h3>GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RhythmPahwa14&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhythmPahwa14&theme=dracula&hide_border=true" />
   <br/><br/>
   <img src="https://github-readme-stats-rhythm.vercel.app/api?username=RhythmPahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="170" />
   <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=RhythmPahwa14&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170" />
