@@ -45,6 +45,15 @@
 <div align="center">
   <img src="https://github-readme-stats-rhythm.vercel.app/api?username=RhythmPahwa14&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="170" />
   <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=RhythmPahwa14&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=RhythmPahwa14&theme=dracula&hide_border=true" height="170" />
+</div>
+
+<hr/>
+
+<h3>Contribution Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RhythmPahwa14&theme=react-dark&hide_border=true" width="95%" />
 </div>
 
 <hr/>
