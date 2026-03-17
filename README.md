@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Rhythm</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rhythm" />
   <h3>A CSE student trying to find the algorithm to life's Rhythm.</h3>
 </div>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <i>let me just check this once… (opens 12 tabs)</i>
+  <i>hold on… this error and I have history</i>
 </p>
 
 <hr/>
@@ -24,43 +24,11 @@
 <h3>About Me</h3>
 
 <ul>
-  <li>Strong foundation in AI/ML, Data Structures, and Full-Stack Development</li>
-  <li>Experienced with C++, Java, Python, React, and SQL</li>
-  <li>Rank 1 Project Admin at GirlScript Summer of Code 2025 (AlgoVisualizer)</li>
-  <li>Mentored over 100 contributors and managed more than 700 pull requests</li>
-  <li>Selected for Amazon ML Summer School 2025 with exposure to large-scale ML systems</li>
+  <li>building ai/ml and full-stack systems that solve real problems</li>
+  <li>strong in data structures, backend logic, and scalable design</li>
+  <li>project admin at girlscript summer of code 2025, led 700+ prs</li>
+  <li>selected for amazon ml summer school 2025</li>
 </ul>
-
-<hr/>
-
-<h3>What I’m Working On</h3>
-
-<ul>
-  <li>AI-enabled and full-stack web applications</li>
-  <li>Machine learning and computer vision projects</li>
-  <li>Scalable backend systems and cloud fundamentals</li>
-  <li>Open-source contributions and community mentoring</li>
-</ul>
-
-<hr/>
-
-<h3>trying to be consistent</h3>
-
-<p align="center">
-  <img src="assets/study-walking.png" width="260"/>
-</p>
-
-<p align="center">
-  <i>studying… but at my own emotional pace</i>
-</p>
-
-<hr/>
-
-<h3>Tech Stack</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mysql,postgresql,git,github,linux&perline=6" />
-</p>
 
 <hr/>
 
@@ -74,14 +42,10 @@
 
 <hr/>
 
-<h3 align="center">current survival method</h3>
+<h3>Tech Stack</h3>
 
-<p align="center">
-  <img src="assets/spotify.png" width="250"/>
-</p>
-
-<p align="center">
-  <i>music so the code does not hurt me personally</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mysql,postgresql,git,github,linux&perline=6" />
 </p>
 
 <hr/>
@@ -91,22 +55,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RhythmPahwa14&theme=react-dark&hide_border=true" width="95%" />
 </div>
-
-<hr/>
-
-<h3>Featured Projects</h3>
-
-<ul>
-  <li>
-    <b>Help Nearby</b> – A location-based platform connecting people who need help with nearby volunteers using React and mapping APIs
-  </li>
-  <li>
-    <b>Motion Writing / Virtual Notepad</b> – Real-time hand-gesture to text system using MediaPipe, OpenCV, and CNNs
-  </li>
-  <li>
-    <b>AlgoVisualizer</b> – Open-source algorithm visualization platform with large-scale contributor involvement
-  </li>
-</ul>
 
 <hr/>
 
@@ -126,6 +74,18 @@
   <a href="https://holopin.io/@RhythmPahwa14">
     <img src="https://holopin.me/RhythmPahwa14" alt="Holopin Badges" />
   </a>
+</p>
+
+<hr/>
+
+<h3 align="center">current survival method</h3>
+
+<p align="center">
+  <img src="assets/spotify.png" width="250"/>
+</p>
+
+<p align="center">
+  <i>music so the code does not hurt me personally</i>
 </p>
 
 <hr/>
