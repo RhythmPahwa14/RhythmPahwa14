@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <i>hold on… this error and I have history</i>
+  <i>commit history says otherwise</i>
 </p>
 
 <hr/>
