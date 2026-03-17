@@ -9,6 +9,18 @@
 
 <hr/>
 
+<h3 align="center">before I say anything</h3>
+
+<p align="center">
+  <img src="assets/dog.gif" width="260"/>
+</p>
+
+<p align="center">
+  <i>let me just check this once… (opens 12 tabs)</i>
+</p>
+
+<hr/>
+
 <h3>About Me</h3>
 
 <ul>
@@ -32,6 +44,18 @@
 
 <hr/>
 
+<h3>trying to be consistent</h3>
+
+<p align="center">
+  <img src="assets/study-walking.png" width="260"/>
+</p>
+
+<p align="center">
+  <i>studying… but at my own emotional pace</i>
+</p>
+
+<hr/>
+
 <h3>Tech Stack</h3>
 
 <p>
@@ -47,6 +71,18 @@
   <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=RhythmPahwa14&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170" />
   <img src="https://streak-stats.demolab.com?user=RhythmPahwa14&theme=dracula&hide_border=true" height="170" />
 </div>
+
+<hr/>
+
+<h3 align="center">current survival method</h3>
+
+<p align="center">
+  <img src="assets/spotify.png" width="250"/>
+</p>
+
+<p align="center">
+  <i>music so the code does not hurt me personally</i>
+</p>
 
 <hr/>
 
