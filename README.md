@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <i>commit history says otherwise</i>
+  <i>let me just check this once… (opens 12 tabs)</i>
 </p>
 
 <hr/>
