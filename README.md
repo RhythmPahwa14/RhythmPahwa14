@@ -92,7 +92,7 @@
 <h3>Connect With Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href=https://www.linkedin.com/in/pahwa-rhythm/>
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:rhythmpahwa14@gmail.com">
