@@ -80,7 +80,7 @@
 <h3 align="center">current survival method</h3>
 
 <p align="center">
-  <img src="assets/spotify.png" width="250"/>
+  <img src="assets/music.jpeg" width="250"/>
 </p>
 
 <p align="center">
