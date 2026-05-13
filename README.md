@@ -8,18 +8,6 @@
 
 <hr/>
 
-<h3 align="center">before I say anything</h3>
-
-<p align="center">
-  <img src="assets/dog.gif" width="260"/>
-</p>
-
-<p align="center">
-  <i>let me just check this once… (opens 12 tabs)</i>
-</p>
-
-<hr/>
-
 <h3>About Me</h3>
 
 <ul>
