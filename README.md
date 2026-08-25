@@ -35,16 +35,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mysql,postgresql,git,github,linux&perline=6" />
 </p>
 
-<hr/>
-
-<h3>Contribution Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RhythmPahwa14&theme=react-dark&hide_border=true" width="95%" />
-</div>
-
-<hr/>
-
 <h3>Achievements</h3>
 
 <ul>
