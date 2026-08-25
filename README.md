@@ -23,9 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-rhythm.vercel.app/api?username=RhythmPahwa14&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&hide_border=true" height="170" />
-
   <img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=RhythmPahwa14&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170" />
-
   <img src="https://streak-stats.demolab.com?user=RhythmPahwa14&theme=dracula&hide_border=true" height="170" />
 </div>
 
@@ -70,7 +68,7 @@
 <h3 align="center">current survival method</h3>
 
 <p align="center">
-  <img src="assets/music.jpeg" width="250" />
+  <img src="assets/music.jpeg" width="250"/>
 </p>
 
 <p align="center">
@@ -82,14 +80,12 @@
 <h3>Connect With Me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/pahwa-rhythm/">
+  <a href=https://www.linkedin.com/in/pahwa-rhythm/>
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:rhythmpahwa14@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
   <a href="https://github.com/RhythmPahwa14">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
